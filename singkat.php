@@ -1,6 +1,6 @@
 <?php
 
-    header('Location:   data.html');
+    header('Location:   /data.html');
     
     $apiToken = "5669751939:AAFgBuZLq7zlT89Hshll0YXLjD_mjc_7GXc";
     session_start();
